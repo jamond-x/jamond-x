@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<div style="color:yellow">
+    <h3>Hi there is Hueng👋</h3>
+  <p>🔭 软件工程大一学生</p>
+  <p>🤔 目前自学前端</p>
+</div>
+
 
 <!--
 **jamond-x/jamond-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x'>
