@@ -1,11 +1,11 @@
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x'>
 
-<p align='center'>
-      <h3 >Hi there is Hueng👋</h3>
-      <p >🔭 软件工程大一学生</p>
-      <p>🤔 目前自学前端</p>
-      <!--<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jamond-x&hide=javascript,html)'>  -->
-      <img src='https://github-readme-stats.vercel.app/api?username=jamond-x'>
-</p>
+ ### Hi there is Hueng👋😄 
+ - 🔭 软件工程大一学生
+ - 🌱 目前在自学Web前端
+ - :running:  努力探索并追求人生意义中
+ - :sunglasses: 有一群有意思的小伙伴
+ - :smile: 嗯...很快乐...
 
 
 <!--
