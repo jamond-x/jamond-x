@@ -1,9 +1,11 @@
 
-<div style="color:yellow">
-    <h3>Hi there is Hueng👋</h3>
-  <p>🔭 软件工程大一学生</p>
-  <p>🤔 目前自学前端</p>
-</div>
+<p align='center'>
+      <h3 >Hi there is Hueng👋</h3>
+      <p >🔭 软件工程大一学生</p>
+      <p>🤔 目前自学前端</p>
+      <!--<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jamond-x&hide=javascript,html)'>  -->
+      <img src='https://github-readme-stats.vercel.app/api?username=jamond-x'>
+</p>
 
 
 <!--
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x'>
+
