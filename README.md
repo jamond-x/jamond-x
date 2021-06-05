@@ -1,4 +1,4 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x&count_private=true)'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true)'>
 
  ### Hi there is Hueng👋😄 
  - 🔭 软件工程大一学生
