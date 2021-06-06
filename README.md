@@ -6,8 +6,8 @@
  - :running:  努力探索并追求人生意义中
  - :sunglasses: 有一群有意思的小伙伴
  - :smile: 嗯...很快乐...
-
-
+- 刚刚部署了自己的博客...嗯..白嫖的github服务器
+- www.hueng.top
 <!--
 **jamond-x/jamond-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
