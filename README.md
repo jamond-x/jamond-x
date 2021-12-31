@@ -4,7 +4,7 @@
  - 🔭 软件工程大二学生
  - 🌱 Web前端
  - :running:  努力探索并追求人生意义中
-<!-- 博客: www.hueng.top --> 
+ - blog:   hueng.web.cloudendpoint.cn
 <!--
 **jamond-x/jamond-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
