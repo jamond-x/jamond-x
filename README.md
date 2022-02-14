@@ -1,8 +1,10 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true)'>
+<img align='left' src='https://github-profile-trophy.vercel.app/?username=jamond-x&theme=algolia'>
 
- ### Hi there is Hueng👋
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'>
+
+ ### Hi  I'm Hueng👋
  - 🔭 软件工程大二学生
- - 🌱 Web前端
+ - 🌱 目前重点学习Web前端
  - :running:  努力探索并追求人生意义中
 
 <!--
