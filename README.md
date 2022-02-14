@@ -1,11 +1,11 @@
-<img align='right' src='https://github-profile-trophy.vercel.app/?username=jamond-x&theme=algolia'>
+<img align='left' src='https://github-profile-trophy.vercel.app/?username=jamond-x&theme=algolia'>
 
 <!-- <img align='left' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'> -->
-
+<!-- 
  ### Hi  I'm Hueng👋
  - 🔭 软件工程大二学生
  - 🌱 目前重点学习Web前端
- - :running:  努力探索并追求人生意义中
+ - :running:  努力探索并追求人生意义中 -->
 
 <!--
 **jamond-x/jamond-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
