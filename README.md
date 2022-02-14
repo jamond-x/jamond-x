@@ -1,6 +1,6 @@
-<img align='left' src='https://github-profile-trophy.vercel.app/?username=jamond-x&theme=algolia'>
+<img align='right' src='https://github-profile-trophy.vercel.app/?username=jamond-x&theme=algolia'>
 
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'>
+<!-- <img align='left' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'> -->
 
  ### Hi  I'm Hueng👋
  - 🔭 软件工程大二学生
