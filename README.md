@@ -5,9 +5,9 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'>
 
  ### Hi  I'm Hueng👋
- - 🔭 软件工程大二学生
- - 🌱 目前重点学习Web前端
-- 🔭  知乎前端实习工程师
+ - 🔭 软件工程大三学生
+ - 🌱 重点学习Web前端
+- 🔭  大二暑假在知乎实习工作
  - :running:  努力探索并追求人生意义中
 
 <!--
