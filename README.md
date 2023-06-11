@@ -4,10 +4,10 @@
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'>
 
- ### 你好，我叫 向兴强👋
- - 🔭 天津理工大学 软件工程 大三学生
+ ### 向兴强
+ - 🔭 软件工程 大三学生
  - 🌱 重点学习Web前端
-- 🔭  大二暑假在知乎实习工作
+- 🔭  在知乎实习工作过
  - :running:  努力探索并追求人生意义中
 
 <!--
