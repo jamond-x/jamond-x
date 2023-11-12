@@ -5,7 +5,7 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=jamond-x&theme=radical&count_private=true&show_icons=true)'>
 
  ### 向兴强
- - 🔭 软件工程 大三学生
+ - 🔭 软件工程 2024届学生
  - 🌱 重点学习Web前端
 - 🔭  2022.6-2022.9 知乎(实习)
 - 🔭 2023.4-2023.8 好未来(实习)
